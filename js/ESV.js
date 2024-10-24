@@ -8,6 +8,6 @@ const pi = 3.14;
 
 myNumber = 23;
 
-port = Math.min(pi, myNumber) // IT CHOOSES THE SMALLER NUMBER THAT IS WHY THE OUTPUT IS PI
+port = Math.min(pi, myNumber); // IT CHOOSES THE SMALLER NUMBER THAT IS WHY THE OUTPUT IS PI
 
-console.log(port)
+console.log(port);
